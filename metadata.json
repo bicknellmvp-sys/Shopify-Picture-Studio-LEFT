@@ -1,0 +1,6 @@
+{
+  "name": "Shopify Image Optimizer",
+  "description": "An AI-powered dashboard for auditing Shopify product images, removing/replacing backgrounds, creating color variations, and hosting optimized assets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
